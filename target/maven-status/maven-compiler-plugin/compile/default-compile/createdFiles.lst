@@ -1,0 +1,3 @@
+dbpedia\properties\vector\VectorRepresentation.class
+dbpedia\propertiesextraction\SPARQL\ExOfResources.class
+dbpedia\properties\vector\WordSimilarity.class
